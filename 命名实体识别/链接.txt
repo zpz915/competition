@@ -1,0 +1,89 @@
+数据集下载
+
+链接：https://pan.baidu.com/s/1lKCY9ozVONxMFjFiH6mvqA 
+
+提取码：mmqq
+
+
+
+【9月23日】赛题解析+Baseline构建
+
+PPT链接：https://pan.baidu.com/s/1LzgY_V11lzt9szpzhl_hPg 
+
+提取码：in06 
+
+baseline链接：https://pan.baidu.com/s/1awn54ORTS-1ZOFmTR2WsjA 
+
+提取码：2fds
+
+Baseline+bert文件链接：https://pan.baidu.com/s/1fcvovGUwi7NKQ11_D7CO0Q 
+
+提取码：wq89
+
+
+
+【9月26日】NLP预训练模型介绍
+
+
+PPT链接：https://pan.baidu.com/s/1lGTglyxuiHS1467b36iKmA
+
+提取码: kffq
+
+代码链接：https://pan.baidu.com/s/1_sXsUYFWtDEa5WOUaSCyHA 
+
+提取码：b8n4
+
+
+
+【9月30日】命名实体识别解码器
+
+PPT链接：https://pan.baidu.com/s/1ExVMNfJRUzwBRSRcad4XPw 
+
+提取码：nivh 
+
+
+
+【10月2日】中期直播答疑
+
+PPT链接:
+
+ https://pan.baidu.com/s/1c1a5ytG4-R4e_yOGBbje-w 
+
+提取码: 7epy 
+
+代码链接: 
+
+https://pan.baidu.com/s/1dIb4AFiufuNCSbYwiSvOaQ 
+
+提取码: avvt 
+
+
+
+【10月5日】Baseline进阶
+
+PPT链接: https://pan.baidu.com/s/17U-1SC3okbnDdl4mTH5Z2g
+
+提取码: nqek 
+
+代码链接: https://pan.baidu.com/s/18bEqBRFXOpNh_LfWtJV7gA 
+
+提取码: ihuc
+
+
+
+【10月7日】state-of-the-art模型介绍
+
+PPT链接: https://pan.baidu.com/s/1P_pfiZgu529SG3DoB0-Gsw 
+
+提取码: sfz1 
+
+
+
+【10月2日】比赛复盘
+
+PPT链接：https://pan.baidu.com/s/1KH4evcFIkD1sSZE61ipmmg 
+提取码：s18x
+
+
+
+https://shimo.im/docs/8xXx8dHt8XGqpxY9/ 《中药说明书实体识别赛道指导班（NLP方向）》
